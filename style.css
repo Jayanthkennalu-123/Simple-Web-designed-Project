@@ -1,0 +1,269 @@
+* {
+  box-sizing: border-box;
+}
+
+.btn-1 {
+  color: yellowgreen;
+  text-align: center;
+  border-radius: 10%;
+  padding-right: 20px;
+}
+.btn-2 {
+  background-color: rgb(246, 242, 242);
+  text-align: center;
+  margin-left: 120px;
+}
+.btn-3 {
+  margin-left: 120px;
+}
+.label {
+  color: blueviolet;
+}
+
+.button {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+}
+
+.foot {
+  background-color: #f0f4f7;
+}
+.tab1{
+  color: #63e7bc;
+  border-radius: 7px;
+}
+.tab2{
+  background-color: #F0F4F7;
+}
+.tab3{
+  background-color: #F0F4F7;
+}
+.row{
+  border-radius: 7px;
+}
+.butt{
+  background-color:#f0f4f7;
+  border-radius: 7px;
+}
+
+.vdfg {
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.downloadbtn {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 5px;
+}
+.FE {
+  border-left-color: purple;
+}
+
+.nav-item1 {
+  text-decoration: none;
+  align-items: center;
+  color: black;
+}
+.nav1 {
+  color: black;
+  text-decoration: none;
+}
+.nav2 {
+  color: black;
+  text-decoration: none;
+}
+.nav3 {
+  color: black;
+  text-decoration: none;
+}
+.nav4 {
+  color: black;
+  text-decoration: none;
+}
+
+.nav1:hover {
+  color: #8842db;
+  text-decoration: none;
+}
+.nav2:hover {
+  color: #8842db;
+  text-decoration: none;
+}
+.nav3:hover {
+  color: #8842db;
+  text-decoration: none;
+}
+.nav4:hover {
+  color: #8842db;
+  text-decoration: none;
+}
+.collapse {
+  text-align: right;
+}
+.btn {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+.lang {
+  background-color:white;
+  height: 50px;
+  width: 150px;
+  border: 1px solid  #F0F4F7;
+}
+.downloadbutton {
+  color: white;
+  background-color: purple;
+  border-radius: 2px;
+  border:none;
+  
+}
+.but {
+  color: white;
+  background-color: blueviolet;
+  align-content: right;
+}
+.col6 {
+  border: 1px solid #d5dfe6;
+  color: black;
+  border-radius: 5px;
+}
+.col7 {
+  border: 1px solid #d5dfe6;
+  color: black;
+  border-radius: 5px;
+}
+.col8 {
+  border: 1px solid #d5dfe6;
+  color: black;
+  border-radius: 5px;
+}
+.col9 {
+  border: 1px solid #d5dfe6;
+  color: black;
+  border-radius: 5px;
+}
+.col5 {
+  border: 1px solid #d5dfe6;
+  color: black;
+  border-radius: 5px;
+}
+.lang1 {
+  top: 1487px;
+  left: 140px;
+  width: 860px;
+  height: 150px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0px 3px 15px #d5dfe666;
+}
+.nav5 {
+  border-radius: 7px;
+}
+.column{
+  border-radius: 20px;
+}
+.FED{
+font-size: 14px;
+
+}
+.BED{
+  font-size: 14px;
+  
+  }
+.FSD{
+  font-size: 14px;
+    }
+.para1{
+  color:#8D9BA6;
+  font-size: 12px;
+}
+.para2{
+  color:#8D9BA6;
+  font-size: 12px;
+}
+.para3{
+  color:#8D9BA6;
+  font-size:12px;
+}
+.language{
+  font-size: 20px;
+}
+.FSWD{
+  font-size: 20px;
+}
+.fullstack{
+ 
+ border-radius: 20px;
+}
+.curriculam{
+  border-radius: 13px;
+  width:90%;
+}
+.firstfloor{
+color:#141117;
+}
+@media screen and (max-width: 992px) 
+  {
+
+  }
+  
+.card-title{
+  font-size: 16px;
+  
+}
+.careermentorship{
+  border-left: 5px solid #FF7F4D;
+}
+.accesstocuratedjobs{
+  border-left:5px solid #63E7BC;
+}
+.exclusiverecruitmentdrives{
+  border-left:5px solid #6CE0FA;
+  font-size: 16px; 
+}
+
+.spaceborderleft{
+  border-left:3px solid #8842DB;
+}
+.spaceborderleft1{
+  border-left:3px solid #8842DB;
+}
+.spaceborderleft2{
+  border-left:3px solid #8842DB;
+}
+.myfooter{
+  background-color: #EFFCF9;
+}
+
+.container{
+  max-width:1170px;
+  
+  margin:auto;
+}
+.footer{
+  background-color: #EFFCF9;
+}
+
+.foot{
+ 
+  font-size: 12px;
+  
+}
+.fhorizantal{
+  color:  #63E7BC ;
+  size: 40px;
+}
+
+@media screen and(max-width:556px){
+  .cardbody{
+    display:flex;
+    justify-content: center;
+  }
+}
